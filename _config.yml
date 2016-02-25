@@ -1,0 +1,28 @@
+name: aimstest
+favicon: null
+layout_spectrum: 0.17001666454598308
+typography_spectrum: 0.6942930954974145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8115157980937511
+  lightness: 0.8825279553420842
+  saturation: 0.56142235128209
+  rhythmicContrast: 0.012076889630407095
+purpose: []
